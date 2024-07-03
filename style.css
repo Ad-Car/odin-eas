@@ -23,3 +23,7 @@
 	display: inline-block;
 }
 
+.dark-pixel {
+	background-color: black;
+}
+
